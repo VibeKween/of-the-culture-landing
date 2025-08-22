@@ -1,10 +1,12 @@
-# Of The Culture — Landing Page
+# OF THE CULTURE — Landing Page
 
 ## Project Overview
 
-A manifesto-style landing page for Of The Culture, a small-batch clothing studio under Tuku Group. The site maintains the ultra-minimal aesthetic of the parent company while adapting for the clothing brand's distinct voice and positioning.
+A manifesto-style landing page for OF THE CULTURE, a small-batch clothing studio under Tuku Group. The site maintains the ultra-minimal aesthetic of the parent company while adapting for the clothing brand's distinct voice and positioning.
 
-**Purpose**: Position Of The Culture as a thoughtful clothing studio rooted in digital culture, with emphasis on craftsmanship, limited runs, and subtle cultural references.
+**Purpose**: Position OF THE CULTURE as a thoughtful clothing studio rooted in digital culture, with emphasis on craftsmanship, limited runs, and subtle cultural references.
+
+**SEO Optimized**: Enterprise-level SEO implementation with structured data, Open Graph, and semantic HTML for enhanced search visibility and social sharing.
 
 ---
 
@@ -118,6 +120,14 @@ Independent and privately held.
 - **Sub-2 second** load time
 - **Minimal dependencies** (typography, basic CSS)
 - **Lightweight footprint** aligned with minimal aesthetic
+
+### SEO Implementation
+- **Enhanced Meta Tags**: Extended title, comprehensive descriptions, Open Graph/Twitter Cards
+- **JSON-LD Structured Data**: Organization, WebSite, and WebPage schemas for rich snippets
+- **Semantic HTML**: Proper heading hierarchy with accessibility-compliant structure
+- **Cross-site Linking**: Connected to ecommerce site via sameAs property
+- **Mobile Optimization**: Google mobile-first indexing compliance
+- **Performance**: Font preconnect, theme colors, optimized loading
 
 ---
 
