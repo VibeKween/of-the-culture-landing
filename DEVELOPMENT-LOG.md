@@ -8,7 +8,7 @@
 **Project Type**: Small-batch clothing studio landing page
 
 **Parent Company**: Tuku Group  
-**Design Reference**: https://hashkween.github.io/tuku-group-landing/
+**Design Reference**: https://vibekween.github.io/tuku-group-landing/
 
 ---
 
