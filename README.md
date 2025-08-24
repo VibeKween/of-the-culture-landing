@@ -70,7 +70,7 @@ A quiet presence in the sea of the everyday.
 
 ### 5. Contact & Footer
 ```
-atelier@oftheculture.com
+atelier@oftheculture.co
 (Email subject: "Inquire — Of The Culture")
 
 © 2025 Tuku Group, LLC.

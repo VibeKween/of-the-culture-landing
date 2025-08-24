@@ -24,7 +24,7 @@
 ### ✅ Content Implementation
 - **Brand positioning**: Small-batch clothing studio with digital culture focus
 - **Manifesto copy**: Poetic flow emphasizing craftsmanship and cultural awareness
-- **Contact integration**: atelier@oftheculture.com with branded subject line
+- **Contact integration**: atelier@oftheculture.co with branded subject line
 - **Footer attribution**: Consistent Tuku Group legal language
 
 ### ✅ SVG Wordmark Integration
